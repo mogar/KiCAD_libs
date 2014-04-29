@@ -1,0 +1,19 @@
+KiCAD libraries
+
+This repo contains all of my non-standard KiCAD libraries.
+
+Some of these were downloaded from other sites, or converted from Eagle libraries.
+Other libraries are completely custom for the various parts I've needed. 
+
+No gaurantee is made that the parts in these libraries are correct. Check the symbol
+and footprint for yourself.
+
+Also note that the SparkFun library was converted from an Eagle library, and thus has many more errors than the others. I've been fixing those errors as I use parts that I need. There are definitely still errors in there though.
+
+3d_models: contains OpenSCAD models, two types of stl, and wrls for the 3D models that correspond to parts in the module files.
+The open scad files define an approximate shape for the models, and are used to export an stl. Blender is then used to open the stl and re-export it as an stl. Wings3d (which can't operate on OpenSCAD stls for some reason) is then used to generate the wrls that KiCAD uses. Note that all of these models have units of mm, so when including them in KiCAD they must be scaled by  0.393700 (1WU/2.54mm, where WU stands for Wings Units).
+See here for more info: http://happyrobotlabs.com/posts/tutorials/tutorial-3d-kicad-parts-using-openscad-and-wings3d/
+
+libraries: includes KiCAD symbol libraries.
+
+modules: includes KiCAD module libraries (footprints).

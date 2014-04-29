@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0  Date: 4/1/2014 11:34:48 AM
+#
+$CMP BQ32000
+K I2C
+$ENDCMP
+#
+$CMP LED_BICOLOR
+D Triple LED RVB (Avago Technology)
+F http://www.avagotech.com/docs/AV02-2589EN
+$ENDCMP
+#
+#End Doc Library
