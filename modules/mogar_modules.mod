@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  7/15/2014 8:34:10 PM
+PCBNEW-LibModule-V1  7/16/2014 6:04:28 PM
 # encoding utf-8
 Units mm
 $INDEX
@@ -938,447 +938,447 @@ Ro 0 0 0
 $EndSHAPE3D
 $EndMODULE BT-XTAL_2520
 $MODULE BT12009
-Po 0 0 0 15 53366F81 00000000 ~~
+Po 0 0 0 15 53C72103 00000000 F~
 Li BT12009
 Sc 0
 AR /53039FB2/533614CC
 Op 0 0 0
-T0 11.9 0 0.5 0.5 900 0.125 N V 21 N "U2"
-T1 0 0 0.5 0.5 0 0.125 N V 21 N "BT12009"
-DC -10.4 6.4 -10.4 6.8 0.5 21
+T0 -11.15 0 0.75 0.75 900 0.1875 N V 21 N "U2"
+T1 -1.83 0.6 0.75 0.75 0 0.1875 N V 21 N "BT12009"
+DC -9.85 5.825 -9.85 6.225 0.5 21
 $PAD
-Sh "31" O 0.6 1.8 0 0 900
+Sh "31" O 0.6 1.2 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 9.95 -4.5
+Po 9.65 -4.5
 $EndPAD
 $PAD
-Sh "30" O 0.6 1.8 0 0 900
+Sh "30" O 0.6 1.2 0 0 900
 Dr 0 0 0
 At SMD N 00888000
-Ne 20 "VCC"
-Po 9.95 -3.6
+Ne 15 "VCC"
+Po 9.65 -3.6
 $EndPAD
 $PAD
-Sh "29" O 0.6 1.8 0 0 900
+Sh "29" O 0.6 1.2 0 0 900
 Dr 0 0 0
 At SMD N 00888000
-Ne 20 "VCC"
-Po 9.95 -2.7
+Ne 15 "VCC"
+Po 9.65 -2.7
 $EndPAD
 $PAD
-Sh "28" O 0.6 1.8 0 0 900
-Dr 0 0 0
-At SMD N 00888000
-Ne 0 ""
-Po 9.95 -1.8
-$EndPAD
-$PAD
-Sh "27" O 0.6 1.8 0 0 900
+Sh "28" O 0.6 1.2 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 9.95 -0.9
+Po 9.65 -1.8
 $EndPAD
 $PAD
-Sh "26" O 0.6 1.8 0 0 900
+Sh "27" O 0.6 1.2 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 9.95 0
+Po 9.65 -0.9
 $EndPAD
 $PAD
-Sh "25" O 0.6 1.8 0 0 900
+Sh "26" O 0.6 1.2 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 9.95 0.9
+Po 9.65 0
 $EndPAD
 $PAD
-Sh "24" O 0.6 1.8 0 0 900
+Sh "25" O 0.6 1.2 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 9.95 1.8
+Po 9.65 0.9
 $EndPAD
 $PAD
-Sh "23" O 0.6 1.8 0 0 900
+Sh "24" O 0.6 1.2 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 9.95 2.7
+Po 9.65 1.8
 $EndPAD
 $PAD
-Sh "22" O 0.6 1.8 0 0 900
+Sh "23" O 0.6 1.2 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 9.95 3.6
+Po 9.65 2.7
 $EndPAD
 $PAD
-Sh "21" O 0.6 1.8 0 0 900
+Sh "22" O 0.6 1.2 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 9.95 4.5
+Po 9.65 3.6
 $EndPAD
 $PAD
-Sh "62" O 0.6 1.8 0 0 900
-Dr 0 0 0
-At SMD N 00888000
-Ne 14 "N-0000064"
-Po -9.95 4.5
-$EndPAD
-$PAD
-Sh "61" O 0.6 1.8 0 0 900
+Sh "21" O 0.6 1.2 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -9.95 3.6
+Po 9.65 4.5
 $EndPAD
 $PAD
-Sh "60" O 0.6 1.8 0 0 900
+Sh "62" O 0.6 1.2 0 0 900
 Dr 0 0 0
 At SMD N 00888000
-Ne 13 "N-0000063"
-Po -9.95 2.7
+Ne 10 "N-0000051"
+Po -9.65 4.5
 $EndPAD
 $PAD
-Sh "59" O 0.6 1.8 0 0 900
-Dr 0 0 0
-At SMD N 00888000
-Ne 0 ""
-Po -9.95 1.8
-$EndPAD
-$PAD
-Sh "58" O 0.6 1.8 0 0 900
+Sh "61" O 0.6 1.2 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -9.95 0.9
+Po -9.65 3.6
 $EndPAD
 $PAD
-Sh "57" O 0.6 1.8 0 0 900
+Sh "60" O 0.6 1.2 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 9 "N-0000050"
+Po -9.65 2.7
+$EndPAD
+$PAD
+Sh "59" O 0.6 1.2 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -9.95 0
+Po -9.65 1.8
 $EndPAD
 $PAD
-Sh "56" O 0.6 1.8 0 0 900
+Sh "58" O 0.6 1.2 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -9.95 -0.9
+Po -9.65 0.9
 $EndPAD
 $PAD
-Sh "55" O 0.6 1.8 0 0 900
+Sh "57" O 0.6 1.2 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -9.95 -1.8
+Po -9.65 0
 $EndPAD
 $PAD
-Sh "54" O 0.6 1.8 0 0 900
+Sh "56" O 0.6 1.2 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -9.95 -2.7
+Po -9.65 -0.9
 $EndPAD
 $PAD
-Sh "53" O 0.6 1.8 0 0 900
+Sh "55" O 0.6 1.2 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -9.95 -3.6
+Po -9.65 -1.8
 $EndPAD
 $PAD
-Sh "52" O 0.6 1.8 0 0 900
-Dr 0 0 0
-At SMD N 00888000
-Ne 5 "GND"
-Po -9.95 -4.5
-$EndPAD
-$PAD
-Sh "32" O 0.6 1.8 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 5 "GND"
-Po 8.55 -5.7
-$EndPAD
-$PAD
-Sh "33" O 0.6 1.8 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 16 "N-0000066"
-Po 7.65 -5.7
-$EndPAD
-$PAD
-Sh "34" O 0.6 1.8 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 3 "/BT Classic Circuitry/CSR_VREGEN"
-Po 6.75 -5.7
-$EndPAD
-$PAD
-Sh "35" O 0.6 1.8 0 0 0
+Sh "54" O 0.6 1.2 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 5.85 -5.7
+Po -9.65 -2.7
 $EndPAD
 $PAD
-Sh "36" O 0.6 1.8 0 0 0
+Sh "53" O 0.6 1.2 0 0 900
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 4.95 -5.7
+Po -9.65 -3.6
 $EndPAD
 $PAD
-Sh "37" O 0.6 1.8 0 0 0
+Sh "52" O 0.6 1.2 0 0 900
+Dr 0 0 0
+At SMD N 00888000
+Ne 6 "GND"
+Po -9.65 -4.5
+$EndPAD
+$PAD
+Sh "32" O 0.6 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 6 "GND"
+Po 8.55 -5.275
+$EndPAD
+$PAD
+Sh "33" O 0.6 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 5 "/BT Classic Circuitry/VBUS"
+Po 7.65 -5.275
+$EndPAD
+$PAD
+Sh "34" O 0.6 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 3 "/BT Classic Circuitry/CSR_nPWRDWN"
+Po 6.75 -5.275
+$EndPAD
+$PAD
+Sh "35" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 4.05 -5.7
+Po 5.85 -5.275
 $EndPAD
 $PAD
-Sh "38" O 0.6 1.8 0 0 0
+Sh "36" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 3.15 -5.7
+Po 4.95 -5.275
 $EndPAD
 $PAD
-Sh "39" O 0.6 1.8 0 0 0
+Sh "37" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
-Ne 10 "N-0000058"
-Po 2.25 -5.7
+Ne 6 "GND"
+Po 4.05 -5.275
 $EndPAD
 $PAD
-Sh "40" O 0.6 1.8 0 0 0
+Sh "38" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
-Ne 11 "N-0000060"
-Po 1.35 -5.7
+Ne 3 "/BT Classic Circuitry/CSR_nPWRDWN"
+Po 3.15 -5.275
 $EndPAD
 $PAD
-Sh "41" O 0.6 1.8 0 0 0
+Sh "39" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
-Ne 12 "N-0000062"
-Po 0.45 -5.7
+Ne 13 "N-0000054"
+Po 2.25 -5.275
 $EndPAD
 $PAD
-Sh "42" O 0.6 1.8 0 0 0
+Sh "40" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
-Ne 18 "N-0000068"
-Po -0.45 -5.7
+Ne 7 "N-0000046"
+Po 1.35 -5.275
 $EndPAD
 $PAD
-Sh "43" O 0.6 1.8 0 0 0
+Sh "41" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
-Ne 6 "N-0000052"
-Po -1.35 -5.7
+Ne 8 "N-0000047"
+Po 0.45 -5.275
 $EndPAD
 $PAD
-Sh "44" O 0.6 1.8 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 19 "N-0000069"
-Po -2.25 -5.7
-$EndPAD
-$PAD
-Sh "45" O 0.6 1.8 0 0 0
+Sh "42" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -3.15 -5.7
+Po -0.45 -5.275
 $EndPAD
 $PAD
-Sh "46" O 0.6 1.8 0 0 0
+Sh "43" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -4.05 -5.7
+Po -1.35 -5.275
 $EndPAD
 $PAD
-Sh "47" O 0.6 1.8 0 0 0
+Sh "44" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -4.95 -5.7
+Po -2.25 -5.275
 $EndPAD
 $PAD
-Sh "48" O 0.6 1.8 0 0 0
+Sh "45" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -5.85 -5.7
+Po -3.15 -5.275
 $EndPAD
 $PAD
-Sh "49" O 0.6 1.8 0 0 0
+Sh "46" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -6.75 -5.7
+Po -4.05 -5.275
 $EndPAD
 $PAD
-Sh "50" O 0.6 1.8 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 5 "GND"
-Po -7.65 -5.7
-$EndPAD
-$PAD
-Sh "51" O 0.6 1.8 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 7 "N-0000055"
-Po -8.55 -5.7
-$EndPAD
-$PAD
-Sh "1" O 0.6 1.8 0 0 0
+Sh "47" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -8.55 5.7
+Po -4.95 -5.275
 $EndPAD
 $PAD
-Sh "2" O 0.6 1.8 0 0 0
+Sh "48" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -7.65 5.7
+Po -5.85 -5.275
 $EndPAD
 $PAD
-Sh "3" O 0.6 1.8 0 0 0
+Sh "49" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -6.75 5.7
+Po -6.75 -5.275
 $EndPAD
 $PAD
-Sh "4" O 0.6 1.8 0 0 0
+Sh "50" O 0.6 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 6 "GND"
+Po -7.65 -5.275
+$EndPAD
+$PAD
+Sh "51" O 0.6 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 14 "N-0000086"
+Po -8.55 -5.275
+$EndPAD
+$PAD
+Sh "1" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -5.85 5.7
+Po -8.55 5.275
 $EndPAD
 $PAD
-Sh "5" O 0.6 1.8 0 0 0
+Sh "2" O 0.6 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -7.65 5.275
+$EndPAD
+$PAD
+Sh "3" O 0.6 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -6.75 5.275
+$EndPAD
+$PAD
+Sh "4" O 0.6 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po -5.85 5.275
+$EndPAD
+$PAD
+Sh "5" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 4 "/BT Classic Circuitry/CSR_nRST"
-Po -4.95 5.7
+Po -4.95 5.275
 $EndPAD
 $PAD
-Sh "6" O 0.6 1.8 0 0 0
+Sh "6" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
-Ne 15 "N-0000065"
-Po -4.05 5.7
+Ne 12 "N-0000053"
+Po -4.05 5.275
 $EndPAD
 $PAD
-Sh "7" O 0.6 1.8 0 0 0
+Sh "7" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 1 "/BT Classic Circuitry/BTC_UART_RX"
-Po -3.15 5.7
+Po -3.15 5.275
 $EndPAD
 $PAD
-Sh "8" O 0.6 1.8 0 0 0
+Sh "8" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 2 "/BT Classic Circuitry/BTC_UART_TX"
-Po -2.25 5.7
+Po -2.25 5.275
 $EndPAD
 $PAD
-Sh "9" O 0.6 1.8 0 0 0
+Sh "9" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -1.35 5.7
+Po -1.35 5.275
 $EndPAD
 $PAD
-Sh "10" O 0.6 1.8 0 0 0
+Sh "10" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po -0.45 5.7
+Po -0.45 5.275
 $EndPAD
 $PAD
-Sh "11" O 0.6 1.8 0 0 0
+Sh "11" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 0.45 5.7
+Po 0.45 5.275
 $EndPAD
 $PAD
-Sh "12" O 0.6 1.8 0 0 0
+Sh "12" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 1.35 5.7
+Po 1.35 5.275
 $EndPAD
 $PAD
-Sh "13" O 0.6 1.8 0 0 0
+Sh "13" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 2.25 5.7
+Po 2.25 5.275
 $EndPAD
 $PAD
-Sh "14" O 0.6 1.8 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 9 "N-0000057"
-Po 3.15 5.7
-$EndPAD
-$PAD
-Sh "15" O 0.6 1.8 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 17 "N-0000067"
-Po 4.05 5.7
-$EndPAD
-$PAD
-Sh "16" O 0.6 1.8 0 0 0
-Dr 0 0 0
-At SMD N 00888000
-Ne 8 "N-0000056"
-Po 4.95 5.7
-$EndPAD
-$PAD
-Sh "17" O 0.6 1.8 0 0 0
+Sh "14" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 5.85 5.7
+Po 3.15 5.275
 $EndPAD
 $PAD
-Sh "18" O 0.6 1.8 0 0 0
+Sh "15" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 6.75 5.7
+Po 4.05 5.275
 $EndPAD
 $PAD
-Sh "19" O 0.6 1.8 0 0 0
+Sh "16" O 0.6 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 11 "N-0000052"
+Po 4.95 5.275
+$EndPAD
+$PAD
+Sh "17" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 7.65 5.7
+Po 5.85 5.275
 $EndPAD
 $PAD
-Sh "20" O 0.6 1.8 0 0 0
+Sh "18" O 0.6 1 0 0 0
 Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
-Po 8.55 5.7
+Po 6.75 5.275
+$EndPAD
+$PAD
+Sh "19" O 0.6 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 7.65 5.275
+$EndPAD
+$PAD
+Sh "20" O 0.6 1 0 0 0
+Dr 0 0 0
+At SMD N 00888000
+Ne 0 ""
+Po 8.55 5.275
 $EndPAD
 $SHAPE3D
 Na "C:/Users/morgan/Documents/Work/EE_resources/KiCAD/BT12009.wrl"
