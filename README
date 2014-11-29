@@ -17,3 +17,4 @@ See here for more info: http://happyrobotlabs.com/posts/tutorials/tutorial-3d-ki
 libraries: includes KiCAD symbol libraries.
 
 modules: includes KiCAD module libraries (footprints).
+- note that if you're using the new KiCAD with CERN improvements, you'll have to include the .mod files as legacy modules. The .pretty directories are all new KiCAD library directories.
