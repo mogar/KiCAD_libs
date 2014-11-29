@@ -1,12 +1,55 @@
-EESchema-DOCLIB  Version 2.0  Date: 7/14/2014 1:30:53 PM
+EESchema-DOCLIB  Version 2.0  Date: 11/17/2014 2:00:38 PM
+#
+$CMP 74LVC1G17
+D buffer with Schmitt trigger
+$ENDCMP
+#
+$CMP AP1501A-33
+D Buck Regulator - Fixed 3.3V Output
+$ENDCMP
 #
 $CMP BQ32000
 K I2C
 $ENDCMP
 #
+$CMP HEF4043
+D Quad R/S Latch with tri-state buffer
+$ENDCMP
+#
+$CMP KA78RM33RTF
+D KA78RM33RTF, 0.5A Low drop-out regulator, Fixed Output 3.3V, TO252-3
+K REGULATOR LDO 3.3V
+F KA78RM33RTF
+$ENDCMP
+#
 $CMP LED_BICOLOR
 D Triple LED RVB (Avago Technology)
 F http://www.avagotech.com/docs/AV02-2589EN
+$ENDCMP
+#
+$CMP LM25085
+D PFET Buck Switching Controller, 4.5V < Vin < 42V
+$ENDCMP
+#
+$CMP LM2678SX-3.3
+D Buck Regulator - Fixed 3.3V Output
+$ENDCMP
+#
+$CMP LM3485
+D PFET Buck Controller, 4.5-35V input, 1.242V to Vin output
+$ENDCMP
+#
+$CMP LM3658
+D LM3658 WSON10 package, LiPo/LiIon battery charge IC
+F http://www.ti.com/lit/ds/symlink/lm3658.pdf
+$ENDCMP
+#
+$CMP LT1506-3.3
+D Buck Regulator - Fixed 3.3V Output
+$ENDCMP
+#
+$CMP MOUNT_M3
+D Mounting Hole for M3 Screw
 $ENDCMP
 #
 $CMP SN74LVC1G32
