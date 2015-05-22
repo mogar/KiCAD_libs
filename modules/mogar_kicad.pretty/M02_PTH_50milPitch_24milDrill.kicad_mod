@@ -1,0 +1,10 @@
+(module M02_PTH_50milPitch_24milDrill (layer F.Cu) (tedit 5525804F)
+  (fp_text reference JP4 (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text value M02PTH (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (pad 1 thru_hole circle (at -0.635 0) (size 1 1) (drill 0.6096) (layers *.Cu *.Mask F.SilkS))
+  (pad 2 thru_hole circle (at 0.635 0) (size 1 1) (drill 0.6096) (layers *.Cu *.Mask F.SilkS))
+)

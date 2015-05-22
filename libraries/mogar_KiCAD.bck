@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: 11/17/2014 2:00:38 PM
+EESchema-DOCLIB  Version 2.0
 #
 $CMP 74LVC1G17
 D buffer with Schmitt trigger
@@ -12,6 +12,14 @@ $CMP BQ32000
 K I2C
 $ENDCMP
 #
+$CMP EdisonConnector
+D Intel Edison Connection
+$ENDCMP
+#
+$CMP EdisonConnector_FullMounting_Holes
+D Intel Edison Connection
+$ENDCMP
+#
 $CMP HEF4043
 D Quad R/S Latch with tri-state buffer
 $ENDCMP
@@ -20,11 +28,6 @@ $CMP KA78RM33RTF
 D KA78RM33RTF, 0.5A Low drop-out regulator, Fixed Output 3.3V, TO252-3
 K REGULATOR LDO 3.3V
 F KA78RM33RTF
-$ENDCMP
-#
-$CMP LED_BICOLOR
-D Triple LED RVB (Avago Technology)
-F http://www.avagotech.com/docs/AV02-2589EN
 $ENDCMP
 #
 $CMP LM25085
