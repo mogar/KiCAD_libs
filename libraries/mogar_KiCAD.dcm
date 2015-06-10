@@ -24,6 +24,11 @@ $CMP HEF4043
 D Quad R/S Latch with tri-state buffer
 $ENDCMP
 #
+$CMP INA139
+D Current Shunt Monitor
+K Current Sensor
+$ENDCMP
+#
 $CMP KA78RM33RTF
 D KA78RM33RTF, 0.5A Low drop-out regulator, Fixed Output 3.3V, TO252-3
 K REGULATOR LDO 3.3V
