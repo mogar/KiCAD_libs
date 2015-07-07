@@ -1,8 +1,8 @@
-(module Molex-501461-0491 (layer F.Cu) (tedit 558A14A5)
-  (fp_text reference S2 (at 0.02 -0.05) (layer F.SilkS)
-    (effects (font (size 1 1) (thickness 0.15)))
+(module Molex-501461-0491 (layer F.Cu) (tedit 558E1A53)
+  (fp_text reference S2 (at 1.47 -1.95 90) (layer F.SilkS)
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
   )
-  (fp_text value switch_contacts (at 0 0) (layer F.Fab) hide
+  (fp_text value M04SMD (at 0 0) (layer F.Fab) hide
     (effects (font (size 1 1) (thickness 0.15)))
   )
   (fp_line (start 0.95 1.4) (end -0.9 1.4) (layer F.SilkS) (width 0.15))
@@ -21,4 +21,9 @@
   (pad x smd rect (at 1.45 -0.05) (size 0.52 1) (layers F.Cu F.Paste F.Mask))
   (pad x smd rect (at -1.5 0) (size 0.52 1) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at -0.25 -1.35) (size 0.3 1.21) (layers F.Cu F.Paste F.Mask))
+  (model ../../../../../Users/morgan/Documents/Work/EE_resources/KiCAD/Molex_FFC_4pin_0.wrl
+    (at (xyz 0 0 0))
+    (scale (xyz 0.3937 0.3937 0.3937))
+    (rotate (xyz 0 0 90))
+  )
 )
