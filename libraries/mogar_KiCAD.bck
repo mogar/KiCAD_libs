@@ -8,8 +8,19 @@ $CMP AP1501A-33
 D Buck Regulator - Fixed 3.3V Output
 $ENDCMP
 #
+$CMP BAS40TW
+D Triple Diode schottky
+K DEV DIODE SCHOTTKY
+$ENDCMP
+#
 $CMP BQ32000
 K I2C
+$ENDCMP
+#
+$CMP BU7265SG-TR
+D Op amp.
+K AmpliOp
+F op_amps/tl071.pdf
 $ENDCMP
 #
 $CMP EdisonConnector
@@ -60,8 +71,17 @@ $CMP MOUNT_M3
 D Mounting Hole for M3 Screw
 $ENDCMP
 #
+$CMP NC7SZ08
+D And2
+K TTL and2
+$ENDCMP
+#
 $CMP SN74LVC1G32
 D 2-input positive OR gate
+$ENDCMP
+#
+$CMP TL081
+F op_amps/tl081.pdf
 $ENDCMP
 #
 #End Doc Library
