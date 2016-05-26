@@ -23,6 +23,10 @@ K AmpliOp
 F op_amps/tl071.pdf
 $ENDCMP
 #
+$CMP CRYSTAL_4PIN_MD
+D Crystal 4Pin SMD
+$ENDCMP
+#
 $CMP EdisonConnector
 D Intel Edison Connection
 $ENDCMP
@@ -74,6 +78,10 @@ $ENDCMP
 $CMP NC7SZ08
 D And2
 K TTL and2
+$ENDCMP
+#
+$CMP SMA_EDGE
+D SMA Edge
 $ENDCMP
 #
 $CMP SN74LVC1G32
