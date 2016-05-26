@@ -1,0 +1,9 @@
+(module M01_PTH_0-45mm locked (layer F.Cu) (tedit 564225E5)
+  (fp_text reference A1 (at -0.05 -0.8) (layer F.SilkS)
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (fp_text value ANT (at 0 0) (layer F.SilkS) hide
+    (effects (font (size 0.5 0.5) (thickness 0.125)))
+  )
+  (pad 1 thru_hole circle (at 0 0) (size 0.8 0.8) (drill 0.45) (layers *.Cu *.Mask F.SilkS))
+)
