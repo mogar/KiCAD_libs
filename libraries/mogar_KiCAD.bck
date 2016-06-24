@@ -1,5 +1,9 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP 3V3_Edison
+K POWER, PWR
+$ENDCMP
+#
 $CMP 74LVC1G17
 D buffer with Schmitt trigger
 $ENDCMP
@@ -86,6 +90,10 @@ $ENDCMP
 #
 $CMP SN74LVC1G32
 D 2-input positive OR gate
+$ENDCMP
+#
+$CMP Switch_SPDT
+D Double Single Pole Double Throw (SPDT) switch
 $ENDCMP
 #
 $CMP TL081
