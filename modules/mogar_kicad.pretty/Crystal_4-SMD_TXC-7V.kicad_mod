@@ -26,7 +26,7 @@
   (pad 3 smd rect (at 1.1 0.85) (size 1.4 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 2 smd rect (at 1.1 -0.85) (size 1.4 1.2) (layers F.Cu F.Paste F.Mask))
   (pad 3 smd rect (at -1.1 -0.85) (size 1.4 1.2) (layers F.Cu F.Paste F.Mask))
-  (model ../../../../../../Users/morgan/Dropbox/work/01_resources/KiCAD_libs/modules/models/TXC_XTAL_7V.wrl
+  (model ${MOGAR_LIBS}/modules/models/TXC_XTAL_7V.wrl
     (at (xyz 0 0 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 0))

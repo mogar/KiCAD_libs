@@ -18,7 +18,7 @@
   (pad 10 smd oval (at 2.035 2.54) (size 2.79 0.74) (layers F.Cu F.Paste F.Mask))
   (pad "" thru_hole circle (at 0 1.905) (size 0.97 0.97) (drill 0.97) (layers *.Cu *.Mask F.SilkS))
   (pad "" thru_hole circle (at 0 -1.905) (size 0.97 0.97) (drill 0.97) (layers *.Cu *.Mask F.SilkS))
-  (model C:/Users/morgan/Dropbox/work/01_resources/KiCAD_libs/modules/models/Conn02x05.wrl
+  (model ${MOGAR_LIBS}/modules/models/Conn02x05.wrl
     (at (xyz 0 0.1 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 270 0 90))

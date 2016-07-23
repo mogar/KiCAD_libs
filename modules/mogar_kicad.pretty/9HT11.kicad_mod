@@ -10,5 +10,5 @@
   (fp_line (start -1.4000 -1.0000) (end -1.4000 1.0000) (layer F.SilkS) (width 0.1250))
   (pad "1" smd rect (at -0.7010 0.0000) (size 0.5994 1.0998) (layers F.Cu F.Paste F.Mask))
   (pad "2" smd rect (at 0.7010 0.0000) (size 0.5994 1.0998) (layers F.Cu F.Paste F.Mask))
-  (model "C:/Users/morgan/Documents/Work/EE_resources/KiCAD/Crystal_2SMD_2012.wrl" (at (xyz 0.0000 0.0000 0.0000)) (scale (xyz 0.3937 0.3937 0.3937)) (rotate (xyz 0.0000 0.0000 0.0000)))
+  (model "${MOGAR_LIBS}/modules/models/Crystal_2SMD_2012.wrl" (at (xyz 0.0000 0.0000 0.0000)) (scale (xyz 0.3937 0.3937 0.3937)) (rotate (xyz 0.0000 0.0000 0.0000)))
 )

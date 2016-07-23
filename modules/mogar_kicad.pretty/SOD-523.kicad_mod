@@ -11,5 +11,5 @@
   (fp_line (start -1.3792 -0.6121) (end -1.3792 0.6833) (layer F.SilkS) (width 0.2032))
   (pad "C" smd rect (at -0.7010 0.0000) (size 0.5004 0.3988) (layers F.Cu F.Paste F.Mask))
   (pad "A" smd rect (at 0.7010 0.0000) (size 0.5004 0.3988) (layers F.Cu F.Paste F.Mask))
-  (model "C:/Users/morgan/Documents/Work/EE_resources/KiCAD/SOD523.wrl" (at (xyz 0.0000 0.0000 0.0000)) (scale (xyz 0.3937 0.3937 0.3937)) (rotate (xyz 0.0000 0.0000 0.0000)))
+  (model "${MOGAR_LIBS}/modules/models/SOD523.wrl" (at (xyz 0.0000 0.0000 0.0000)) (scale (xyz 0.3937 0.3937 0.3937)) (rotate (xyz 0.0000 0.0000 0.0000)))
 )

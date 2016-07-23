@@ -10,5 +10,5 @@
   (pad "1" smd rect (at -0.3500 -0.2250) (size 0.4000 0.2500) (layers F.Cu F.Paste F.Mask))
   (pad "2" smd rect (at -0.3500 0.2250) (size 0.4000 0.2500) (layers F.Cu F.Paste F.Mask))
   (pad "3" smd rect (at 0.3500 0.0000) (size 0.4000 0.7000) (layers F.Cu F.Paste F.Mask))
-  (model "C:/Users/morgan/Documents/Work/EE_resources/KiCAD/3XFDFN.wrl" (at (xyz 0.0000 0.0000 0.0000)) (scale (xyz 0.3937 0.3937 0.3937)) (rotate (xyz 0.0000 0.0000 0.0000)))
+  (model "${MOGAR_LIBS}/modules/models/3XFDFN.wrl" (at (xyz 0.0000 0.0000 0.0000)) (scale (xyz 0.3937 0.3937 0.3937)) (rotate (xyz 0.0000 0.0000 0.0000)))
 )

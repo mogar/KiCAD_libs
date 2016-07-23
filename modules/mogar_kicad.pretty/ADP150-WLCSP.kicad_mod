@@ -14,5 +14,5 @@
   (pad "2A" smd circle (at 0.2000 -0.2000) (size 0.2600 0.2600) (layers F.Cu F.Paste F.Mask))
   (pad "1A" smd circle (at -0.2000 -0.2000) (size 0.2600 0.2600) (layers F.Cu F.Paste F.Mask))
   (pad "1B" smd circle (at -0.2000 0.2000) (size 0.2600 0.2600) (layers F.Cu F.Paste F.Mask))
-  (model "C:/Users/morgan/Documents/Work/EE_resources/KiCAD/ADP150_WLCSP.wrl" (at (xyz 0.0000 0.0000 0.0000)) (scale (xyz 0.3937 0.3937 0.3937)) (rotate (xyz 0.0000 0.0000 0.0000)))
+  (model "${MOGAR_LIBS}/modules/models/ADP150_WLCSP.wrl" (at (xyz 0.0000 0.0000 0.0000)) (scale (xyz 0.3937 0.3937 0.3937)) (rotate (xyz 0.0000 0.0000 0.0000)))
 )

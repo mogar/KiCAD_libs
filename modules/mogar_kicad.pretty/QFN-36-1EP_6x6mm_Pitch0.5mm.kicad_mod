@@ -1,4 +1,4 @@
-(module QFN36-6x6mm-Pitch0.5 (layer F.Cu) (tedit 576499FA)
+(module QFN-36-1EP_6x6mm_Pitch0.5mm (layer F.Cu) (tedit 576499FA)
   (descr "36-Lead Plastic Quad Flat, No Lead Package (MP) - 6x6 mm Body [QFN]; ")
   (tags "QFN 0.4")
   (clearance 0.14)

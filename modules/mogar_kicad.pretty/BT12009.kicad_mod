@@ -66,5 +66,5 @@
   (pad "18" smd oval (at 6.7500 5.2750) (size 0.6000 1.0000) (layers F.Cu F.Paste F.SilkS F.Mask))
   (pad "19" smd oval (at 7.6500 5.2750) (size 0.6000 1.0000) (layers F.Cu F.Paste F.SilkS F.Mask))
   (pad "20" smd oval (at 8.5500 5.2750) (size 0.6000 1.0000) (layers F.Cu F.Paste F.SilkS F.Mask))
-  (model "C:/Users/morgan/Documents/Work/EE_resources/KiCAD/BT12009.wrl" (at (xyz 0.0000 0.0000 0.0000)) (scale (xyz 0.3937 0.3937 0.3937)) (rotate (xyz 0.0000 0.0000 0.0000)))
+  (model "${MOGAR_LIBS}/modules/models/BT12009.wrl" (at (xyz 0.0000 0.0000 0.0000)) (scale (xyz 0.3937 0.3937 0.3937)) (rotate (xyz 0.0000 0.0000 0.0000)))
 )

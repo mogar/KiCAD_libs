@@ -18,5 +18,5 @@
   (pad "6" smd circle (at -0.5000 0.4330) (size 0.3000 0.3000) (layers F.Cu F.Paste F.Mask))
   (pad "7" smd circle (at 0.0000 0.4330) (size 0.3000 0.3000) (layers F.Cu F.Paste F.Mask))
   (pad "8" smd circle (at 0.5000 0.4330) (size 0.3000 0.3000) (layers F.Cu F.Paste F.Mask))
-  (model "C:/Users/morgan/Documents/Work/EE_resources/KiCAD/WLCSP-8_M24M01.wrl" (at (xyz 0.0000 0.0000 0.0000)) (scale (xyz 0.3937 0.3937 0.3937)) (rotate (xyz 0.0000 0.0000 0.0000)))
+  (model "${MOGAR_LIBS}/modules/models/WLCSP-8_M24M01.wrl" (at (xyz 0.0000 0.0000 0.0000)) (scale (xyz 0.3937 0.3937 0.3937)) (rotate (xyz 0.0000 0.0000 0.0000)))
 )

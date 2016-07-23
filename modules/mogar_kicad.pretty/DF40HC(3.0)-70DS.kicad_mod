@@ -83,7 +83,7 @@
   (pad 66 smd rect (at 1.175 6) (size 1.43 0.2) (layers F.Cu F.Paste F.Mask))
   (pad 68 smd rect (at 1.175 6.4) (size 1.43 0.2) (layers F.Cu F.Paste F.Mask))
   (pad 70 smd rect (at 1.175 6.8) (size 1.43 0.2) (layers F.Cu F.Paste F.Mask))
-  (model C:/Users/morgan/Dropbox/work/01_resources/KiCAD_libs/modules/models/EdisonConnector.wrl
+  (model ${MOGAR_LIBS}/modules/models/EdisonConnector.wrl
     (at (xyz 0 0.1925 0.06))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 270 0 0))

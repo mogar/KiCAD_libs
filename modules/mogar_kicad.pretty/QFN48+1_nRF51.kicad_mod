@@ -60,5 +60,5 @@
   (pad "46" smd rect (at -1.3995 -2.7991 90.0) (size 0.5994 0.2489) (layers F.Cu F.Paste F.Mask))
   (pad "47" smd rect (at -1.8009 -2.7991 90.0) (size 0.5994 0.2489) (layers F.Cu F.Paste F.Mask))
   (pad "48" smd rect (at -2.1996 -2.7991 90.0) (size 0.5994 0.2489) (layers F.Cu F.Paste F.Mask))
-  (model "C:/Users/morgan/Documents/Work/EE_resources/KiCAD/QFN48_6x6.wrl" (at (xyz 0.0000 0.0000 0.0000)) (scale (xyz 0.3937 0.3937 0.3937)) (rotate (xyz 0.0000 0.0000 0.0000)))
+  (model "${MOGAR_LIBS}/modules/models/QFN48_6x6.wrl" (at (xyz 0.0000 0.0000 0.0000)) (scale (xyz 0.3937 0.3937 0.3937)) (rotate (xyz 0.0000 0.0000 0.0000)))
 )

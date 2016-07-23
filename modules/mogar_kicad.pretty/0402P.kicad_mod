@@ -12,5 +12,5 @@
   (fp_line (start -1.2707 0.4826) (end -1.2707 -0.4826) (layer F.SilkS) (width 0.0508))
   (pad "A" smd rect (at -0.6477 0.0000) (size 0.6985 0.8992) (layers F.Cu F.Paste F.Mask))
   (pad "C" smd rect (at 0.6477 0.0000) (size 0.6985 0.8992) (layers F.Cu F.Paste F.Mask))
-  (model "C:/Users/morgan/Documents/Work/EE_resources/KiCAD/Passive_0402.wrl" (at (xyz 0.0000 0.0000 0.0000)) (scale (xyz 0.3937 0.3937 0.3937)) (rotate (xyz 0.0000 0.0000 0.0000)))
+  (model "${MOGAR_LIBS}/modules/models/Passive_0402.wrl" (at (xyz 0.0000 0.0000 0.0000)) (scale (xyz 0.3937 0.3937 0.3937)) (rotate (xyz 0.0000 0.0000 0.0000)))
 )

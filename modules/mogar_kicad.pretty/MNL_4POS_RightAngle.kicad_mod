@@ -18,7 +18,7 @@
   (pad 3 thru_hole circle (at 2.07 -12.67) (size 2 2) (drill 1.4) (layers *.Cu *.Mask F.SilkS))
   (pad 4 thru_hole circle (at -2.07 -12.67) (size 2 2) (drill 1.4) (layers *.Cu *.Mask F.SilkS))
   (pad "" np_thru_hole circle (at 0 -5.33) (size 3.87 3.87) (drill 3.87) (layers *.Cu *.Mask F.SilkS))
-  (model C:/Users/morgan/Dropbox/work/01_resources/KiCAD_libs/modules/models/4POS_RightAngle.wrl
+  (model ${MOGAR_LIBS}/modules/models/4POS_RightAngle.wrl
     (at (xyz 0 -0.06 0))
     (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 270 0 0))
