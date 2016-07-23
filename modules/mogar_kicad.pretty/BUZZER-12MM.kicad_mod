@@ -1,0 +1,10 @@
+#template /51DC7A8F/5323ADB9
+(module "BUZZER-12MM" (layer F.Cu)
+  (tedit 5328A69F)
+  (descr "BUZZER")
+  (tags "BUZZER")
+  (fp_text reference "SG1" (at 0.0400 -6.5900) (layer F.SilkS) (effects (font (size 0.5000 0.5000) (thickness 0.1250))))
+  (fp_text value "BUZZERPTH" (at -0.0300 1.9500) (layer F.SilkS) hide (effects (font (size 0.5000 0.5000) (thickness 0.1250))))
+  (pad "+" thru_hole circle (at 3.2487 0.0000) (size 1.7780 1.7780) (drill 0.8992 (offset 0.0000 0.0000)) (layers *.Cu *.Mask F.Paste))
+  (pad "-" thru_hole circle (at -3.2487 0.0000) (size 1.7780 1.7780) (drill 0.8992 (offset 0.0000 0.0000)) (layers *.Cu *.Mask F.Paste))
+)

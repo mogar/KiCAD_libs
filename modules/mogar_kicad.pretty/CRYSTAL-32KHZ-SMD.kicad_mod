@@ -1,0 +1,10 @@
+#template /51ED664E
+(module "CRYSTAL-32KHZ-SMD" (layer F.Cu)
+  (tedit 51ED669D)
+  (attr smd)
+  (fp_text reference "Y2" (at 0.3810 -8.4582) (layer F.SilkS) (effects (font (size 0.4064 0.4064) (thickness 0.0889))))
+  (fp_text value "32.768k" (at 0.5842 1.7018) (layer F.SilkS) (effects (font (size 0.4064 0.4064) (thickness 0.0889))))
+  (pad "SHEI" smd rect (at 0.0000 -5.0800) (size 2.4994 5.9995) (layers F.Cu F.Paste F.Mask))
+  (pad "1" smd rect (at -1.2700 0.0000) (size 0.9982 2.4994) (layers F.Cu F.Paste F.Mask))
+  (pad "2" smd rect (at 1.2700 0.0000) (size 0.9982 2.4994) (layers F.Cu F.Paste F.Mask))
+)

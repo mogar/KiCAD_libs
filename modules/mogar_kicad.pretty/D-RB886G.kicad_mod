@@ -1,0 +1,12 @@
+#template /52C1C06B/52C75C21
+(module "D-RB886G" (layer F.Cu)
+  (tedit 52E1548D)
+  (descr "DIODE")
+  (tags "DIODE")
+  (attr smd)
+  (fp_text reference "D?" (at 0.0000 -0.8000) (layer B.SilkS) (effects (font (size 0.4064 0.4064) (thickness 0.0889))))
+  (fp_text value "RB886G" (at 0.0000 0.8500) (layer B.SilkS) hide (effects (font (size 0.4064 0.4064) (thickness 0.0889))))
+  (fp_line (start 1.0000 -0.4000) (end 1.0000 0.4000) (layer F.SilkS) (width 0.1000))
+  (pad "A" smd rect (at -0.6000 0.0000) (size 0.5000 0.5000) (layers F.Cu F.Paste F.Mask))
+  (pad "C" smd rect (at 0.6000 0.0000) (size 0.5000 0.5000) (layers F.Cu F.Paste F.Mask))
+)
