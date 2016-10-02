@@ -42,7 +42,7 @@
   (pad "" smd rect (at 3.4 2.775) (size 1.6 3.4) (layers F.Cu F.Paste F.Mask))
   (model ${MOGAR_LIBS}/modules/models/JST_02_RA.wrl
     (at (xyz 0 0 0.1))
-    (scale (xyz 0.4 0.4 0.4))
+    (scale (xyz 0.3937 0.3937 0.3937))
     (rotate (xyz 0 0 180))
   )
 )
